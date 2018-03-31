@@ -1,0 +1,7 @@
+start: Would you like to flip a coin?
+
+yes: How many coins would you like for me to flip?
+
+no: Then don't start up flip coin. Good bye.
+
+end: Thank you for using flip coin. Good bye.
